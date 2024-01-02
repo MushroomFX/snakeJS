@@ -7,7 +7,7 @@ const player = {
     y:0,
     facing:1,
     length: 10,
-    speed:100,
+    speed:75,
     alive:true
 }
 
